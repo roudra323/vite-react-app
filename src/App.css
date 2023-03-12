@@ -39,6 +39,9 @@ Nav {
 }
 .Main {
   color: #deebf8;
+  background-image: url(./src/assets/reactjs-icon.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
 }
 
 .main--title {
