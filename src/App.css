@@ -41,6 +41,28 @@ Nav {
   color: #deebf8;
 }
 
+.main--title {
+  margin: 20;
+  font-size: 40px;
+  letter-spacing: -0.005em;
+  margin-left: 20px;
+}
+
+.main--facts {
+  margin-top: 30px;
+  max-width: 400px;
+  margin-left: 30px;
+}
+
+.main--facts > li {
+  line-height: 19px;
+  padding-block: 10px;
+}
+
+.main--facts > li::marker {
+  font-size: 1.4rem;
+  color: #61dafb;
+}
 .footer {
   text-align: center;
   position: absolute;
